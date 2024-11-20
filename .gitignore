@@ -1,0 +1,9 @@
+public/uploads/*
+docker-compose.yml
+init.sql
+LICENSE
+Build/*
+public/js/bootstrap*
+*.zip
+*.tar
+.dockerignore

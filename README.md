@@ -1,1 +1,4 @@
-# Examen-1_Final
+# Test project 1
+
+* Autor: Ulises Gil Garcia
+* Entorn de programació: VS Code

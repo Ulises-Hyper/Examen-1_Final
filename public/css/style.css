@@ -1,0 +1,15 @@
+li {
+  list-style: none;
+}
+
+.bg-custom-grey {
+  background-color: rgb(180, 182, 184);
+}
+
+.custom-container-title{
+  background-color: yellow;
+}
+
+h2 {
+  display: block;
+}
